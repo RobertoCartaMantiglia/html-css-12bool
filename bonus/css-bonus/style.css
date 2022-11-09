@@ -3,3 +3,15 @@
     margin: 0;
     padding: 0;
 }
+
+main{
+    background-color: darkslateblue;
+    height: 100vh;
+}
+[class*="col-"] {
+    background-color:yellowgreen;
+}
+
+.flex-center{
+    justify-content: center;
+}
