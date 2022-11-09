@@ -12,14 +12,8 @@
 }
 
 
-.box-col{
-    text-align: center;
-    padding: 0.5rem;
-}
 [class*="col-"] {
     flex: 0 0 auto;
-    background-color: darkorange;
-    border: 1px solid black;
 }
 
 .col-1{

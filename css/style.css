@@ -3,6 +3,19 @@
     padding: 0;
     margin: 0;
 }
-main{
-    background-color: darkgray;
+[class*="col-"] {
+    background-color: darkorange;
+    border: 1px solid black;
+}
+
+
+.box-col{
+    text-align: center;
+    padding: 0.5rem;
+}
+.nested{
+    padding: 0.5rem;
+}
+.nested .box-col{
+    background-color: greenyellow;
 }
