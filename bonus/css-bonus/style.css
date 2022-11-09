@@ -5,8 +5,11 @@
 }
 
 main{
-    background-color: darkslateblue;
-    height: 100vh;
+    background-image: url("https://wallpaperaccess.com/full/156992.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
 }
 [class*="col-"] {
     background-color:yellowgreen;
